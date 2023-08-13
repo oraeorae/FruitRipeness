@@ -100,3 +100,14 @@ JDK版本：1.8
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
+
+## 其他项目
+抖音青训营后端项目——简易抖音【GO、Gorm】：https://github.com/oraeorae/GoDouYin
+
+Code代码极速开发平台【SpringCloud】：https://github.com/oraeorae/mycloud
+
+乡村特色菜谱【SpringBoot】：https://github.com/oraeorae/Recipe
+
+失物招领小程序后端【SpringMVC】：https://github.com/oraeorae/LostThing
+
+寻觅美食APP【SpringBoot】：https://github.com/oraeorae/food
